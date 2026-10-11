@@ -1,0 +1,6 @@
+{
+  "name": "Transcribe Version 2",
+  "description": "Real-time speech transcription with silence detection, structural correction, and interactive grammar inspection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
